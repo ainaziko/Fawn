@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Guide App</string>
+
+    <string name="buhara_info">European * Eastern * Halal - Kitchen. Instrumental music. Average fee 700 som</string>
+    <string name="buhara">Buhara</string>
+    <string name="buhara_contact">+996 555–19–44–44</string>
+    <string name="buhara_location">Ibraimova, 105</string>
+    <string name="buhara_location_url">https://goo.gl/maps/sGZ4vaCvuMrNpC7K6</string>
+
+    <string name="faiza_info">Eastern * European HALAL kitchen. Average fee 300 soms.</string>
+    <string name="faiza">Faiza</string>
+    <string name="faiza_contact">+996 555–32–49–22</string>
+    <string name="faiza_location">Mederova, 157</string>
+    <string name="faiza_location_url">https://goo.gl/maps/c3o4Weyi69nmWsB7A</string>
+
+    <string name="navat_info">Eastern * European HALAL kitchen. Average fee 800 soms.</string>
+    <string name="navat">Navat</string>
+    <string name="navat_contact">+996 551–53–11–11</string>
+    <string name="navat_location">Togolok Moldo, 114/1</string>
+    <string name="navat_location_url">https://goo.gl/maps/sQ8rtF2oac53jeo99</string>
+
+    <string name="supara_info">Asian * European * Kyrgyz HALAL kitchen. Dance floor available. Average fee 1200 soms.</string>
+    <string name="supara">Supara</string>
+    <string name="supara_contact">+996 555–46–50–51</string>
+    <string name="supara_location">Karagul Akmat, 1</string>
+    <string name="supara_location_url">https://goo.gl/maps/aC45thN8wEXGXCkJ9</string>
+
+    /* ------------------------------------------------------------------------------------ */
+
+    <string name="alatoo_info">Ala-Too Cinema is the oldest and one of the most famous in the city of Bishkek. It is considered a cultural monument of the Kyrgyz Republic, and for the audience it is a place of immersion in the magic of real cinema. It is also the first cinema in the city to offer 3D movies.</string>
+    <string name="alatoo">Ala Too</string>
+    <string name="alatoo_contact">+996 312–66–19–57</string>
+    <string name="alatoo_location">Boulevard Erkindik, 53 </string>
+    <string name="alatoo_location_url">https://goo.gl/maps/xGs9EejLUknqbPnt8</string>
+
+    <string name="cosmo_park_info">The cinema of the Cinematica network, which bears the name COSMOPARK, is located in the entertainment center of the same name and opened in 2011. The cinema has five cinemas, four of which are designed for 205 seats, and one for 378 seats. The height of the screen in the largest hall of the network reaches 7 meters. In addition, in 2014, two cinemas were opened here, designed for the rental of Russian films.</string>
+    <string name="cosmo_park">Cosmo Park</string>
+    <string name="cosmo_park_contact">+996 312–29–93–93</string>
+    <string name="cosmo_park_location">7 microdistrict, st. K.Marks / Donetsk</string>
+    <string name="cosmo_park_location_url">https://goo.gl/maps/WiZTjxRAKu8MhXnK8</string>
+
+    <string name="october_info">Cinema Oktyabr is the first reconstructed cinema in Kyrgyzstan, where modern sound equipment Dolby Digital Surround is installed. The cinema opened in 2005. There are three cinema halls with 255, 72 and 30 seats.</string>
+    <string name="october">October</string>
+    <string name="october_contact">+996 312–39–20–79</string>
+    <string name="october_location">Chuy, 184</string>
+    <string name="october_location_url">https://goo.gl/maps/1t6m8TBCXsnmoXSJ8</string>
+
+    <string name="russia_info">Cinema "Russia" is located on Chui Avenue, and there is everything that is necessary for any moviegoer! The repertoire contains only the best novelties of world and domestic cinema. You can watch them in six spacious and cozy cinema halls. All are equipped with modern equipment that allows you to achieve maximum pleasure from the level of quality. Also in the cinema there are various promotions and a discount system.</string>
+    <string name="russia">Russia</string>
+    <string name="russia_contact">+996 312–66–09–60</string>
+    <string name="russia_location">Chuy, 213</string>
+    <string name="russia_location_url">https://goo.gl/maps/hNf5tV2JfvWT52Yw5</string>
+
+    /* ------------------------------------------------------------------------------------ */
+
+    <string name="plaza_info">This is a multifunctional complex with a total area of more than 70,000 square meters, located in the center of Bishkek, at the intersection of the two largest Ibraimov Streets and Chui Avenue. On the territory of the complex there are: shopping galleries, a business center, an amusement park for children, a modern cinema, a multi-level parking lot for 800 cars and much more.</string>
+    <string name="plaza">Dordoi Plaza</string>
+    <string name="plaza_contact">+996 312–62–30–00</string>
+    <string name="plaza_location">Ibraimova, 115</string>
+    <string name="plaza_location_url">https://goo.gl/maps/FUwKW7fy4HXRMB8cA</string>
+
+    <string name="bishkek_park_info">Bishkek Park is the up-market mall in Bishkek with luxury stores and fine restaurants - not as fancy as other malls in larger cities, but nonetheless, one of the better places to shop in Bishkek.</string>
+    <string name="bishkek_park">Bishkek Park</string>
+    <string name="bishkek_park_contact">+996 312–31–20–31</string>
+    <string name="bishkek_park_location">Kievskaya, 148B</string>
+    <string name="bishkek_park_location_url">https://g.page/BishkekPark?share</string>
+
+    <string name="asiamall_info">Asia mall is the largest shopping center in the country, striving to satisfy every customer, combining modern technologies and national roots.</string>
+    <string name="asiamall">Asia Mall</string>
+    <string name="asiamall_contact">+996 551–89–00–40</string>
+    <string name="asiamall_location">Mir Ave, 3</string>
+    <string name="asiamall_location_url">https://g.page/asiamall?share</string>
+
+    <string name="ala_archa_info">Amazing mall famous for "Sky Park" is the largest entertainment center in Bishkek.</string>
+    <string name="ala_archa">Ala Archa</string>
+    <string name="ala_archa_contact">+996 500–30–00–60</string>
+    <string name="ala_archa_location">Chyngyz Aitmatov, 299B </string>
+    <string name="ala_archa_location_url">https://goo.gl/maps/Pg4kvt23LNAWXoFg6</string>
+</resources>
