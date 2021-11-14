@@ -76,6 +76,26 @@
     <string name="ala_archa_contact">+996 500–30–00–60</string>
     <string name="ala_archa_location">Chyngyz Aitmatov, 299B </string>
     <string name="ala_archa_location_url">https://goo.gl/maps/Pg4kvt23LNAWXoFg6</string>
-    <!-- TODO: Remove or change this placeholder text -->
+
+    /* ------------------------------------------------------------------------------------ */
+
+    <string name="megaland_info">Entrance ticket for kids costs: under 3 y.o - 250 som, after 3 y.o - 400 som, on weekends - 500 som. They work everyday 10.00-22.00.</string>
+    <string name="megaland">Mega Land</string>
+    <string name="megaland_contact">+996 32-36-23</string>
+    <string name="megaland_location">I MALL, 2nd floor </string>
+    <string name="megaland_location_url">https://www.google.com/maps/place/%D0%A2%D0%A6+I-Mall/@42.8754191,74.5799374,17z/data=!3m1!4b1!4m5!3m4!1s0x389ec92eeaa7a033:0x4ff86d380c291735!8m2!3d42.8754191!4d74.5821261</string>
+
+    <string name="illusion_info">Entrance ticket for kids costs: under 3 y.o - 300-350 som, after 3 y.o till 16 y.o - 450 som. They work everyday 10.00-23.00.</string>
+    <string name="illusion">Illusion</string>
+    <string name="illusion_contact">+996 551–89–00–40</string>
+    <string name="illusion_location">Kosmopark</string>
+    <string name="illusion_location_url">https://goo.gl/maps/WiZTjxRAKu8MhXnK8</string>
+
+    <string name="skypark_info">Entrance ticket for kids from 3 y.o costs 420 som, for all other - 600 som. They work everyday 10.00-23.00.</string>
+    <string name="skypark">Sky Park</string>
+    <string name="skypark_contact">+996 551–89–00–40</string>
+    <string name="skypark_location">Chyngyz Aitmatov, 299B </string>
+    <string name="skypark_location_url">https://goo.gl/maps/Pg4kvt23LNAWXoFg6</string>
+
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

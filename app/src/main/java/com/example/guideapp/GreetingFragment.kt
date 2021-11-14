@@ -15,7 +15,6 @@ class GreetingFragment : Fragment() {
             R.layout.fragment_greeting, container, false)
         binding.exploreButton.setOnClickListener (
             Navigation.createNavigateOnClickListener(R.id.action_greetingFragment_to_mainFragment))
-        // Inflate the layout for this fragment
         return binding.root
     }
 

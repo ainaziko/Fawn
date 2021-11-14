@@ -17,7 +17,7 @@ class MallFragment : Fragment(), RecyclerLocationClick, RecyclerNumberClick {
     lateinit var binding: FragmentMallBinding
     private val adapter by lazy { ItemAdapter(requireContext(), this, this) }
     private val imageList by lazy{
-        mutableListOf(R.drawable.res_buhara, R.drawable.res_faiza, R.drawable.res_navat, R.drawable.res_supara)
+        mutableListOf(R.drawable.res_buhara, R.drawable.mall_bishkekpark, R.drawable.res_navat, R.drawable.res_supara)
     }
 
     private val itemList by lazy {

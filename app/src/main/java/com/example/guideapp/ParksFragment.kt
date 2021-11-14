@@ -17,31 +17,26 @@ class ParksFragment : Fragment(), RecyclerLocationClick, RecyclerNumberClick {
     lateinit var binding: FragmentCinemaBinding
     private val adapter by lazy { ItemAdapter(requireContext(), this, this) }
     private val imageList by lazy {
-        mutableListOf(R.drawable.cin_russia, R.drawable.cin_cosmo_park, R.drawable.cin_ala_too, R.drawable.cin_october)
+        mutableListOf(R.drawable.megaland, R.drawable.illusion, R.drawable.skypark)
     }
 
     private val itemList by lazy {
         mutableListOf(
-            Items(getString(R.string.alatoo_info),
-                getString(R.string.alatoo),
-                getString(R.string.alatoo_contact),
-                getString(R.string.alatoo_location),
-                getString(R.string.alatoo_location_url)),
-            Items(getString(R.string.cosmo_park_info),
-                getString(R.string.cosmo_park),
-                getString(R.string.cosmo_park_contact),
-                getString(R.string.cosmo_park_location),
-                getString(R.string.cosmo_park_location_url)),
-            Items(getString(R.string.october_info),
-                getString(R.string.october),
-                getString(R.string.october_contact),
-                getString(R.string.october_location),
-                getString(R.string.october_location_url)),
-            Items(getString(R.string.russia_info),
-                getString(R.string.russia),
-                getString(R.string.russia_contact),
-                getString(R.string.russia_location),
-                getString(R.string.russia_location_url)))
+            Items(getString(R.string.megaland_info),
+                getString(R.string.megaland),
+                getString(R.string.megaland_contact),
+                getString(R.string.megaland_location),
+                getString(R.string.megaland_location_url)),
+            Items(getString(R.string.illusion_info),
+                getString(R.string.illusion),
+                getString(R.string.illusion_contact),
+                getString(R.string.illusion_location),
+                getString(R.string.illusion_location_url)),
+            Items(getString(R.string.skypark_info),
+                getString(R.string.skypark),
+                getString(R.string.skypark_contact),
+                getString(R.string.skypark_location),
+                getString(R.string.skypark_location_url)))
     }
 
 
