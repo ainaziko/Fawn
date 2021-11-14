@@ -76,4 +76,6 @@
     <string name="ala_archa_contact">+996 500–30–00–60</string>
     <string name="ala_archa_location">Chyngyz Aitmatov, 299B </string>
     <string name="ala_archa_location_url">https://goo.gl/maps/Pg4kvt23LNAWXoFg6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

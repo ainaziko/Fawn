@@ -5,7 +5,7 @@ import androidx.viewpager2.adapter.FragmentStateAdapter
 
 class PageAdapter (fragment: Fragment) : FragmentStateAdapter(fragment) {
     override fun getItemCount(): Int {
-        return 3
+        return 4
     }
 
     override fun createFragment(position: Int): Fragment {
@@ -18,6 +18,9 @@ class PageAdapter (fragment: Fragment) : FragmentStateAdapter(fragment) {
             }
             2 -> {
                 MallFragment()
+            }
+            3 ->{
+                ParksFragment()
             }
             else -> {
                 Fragment()

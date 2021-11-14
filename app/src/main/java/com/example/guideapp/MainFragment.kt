@@ -30,6 +30,9 @@ class MainFragment : Fragment() {
                  2 -> {
                      tab.text = "Malls"
                  }
+                 3 -> {
+                     tab.text = "Parks"
+                 }
              }
         }.attach()
 
